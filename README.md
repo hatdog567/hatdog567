@@ -57,6 +57,8 @@ Background: VenU is an event and venue management platform designed to connect e
 
 Key features: Role-based portals, digital tickets, QR check-in, PDF passes, and event management.
 
+Technologies: React, Tailwind CSS, ASP.NET Core 8, C#, Entity Framework Core, MySQL, SignalR, Leaflet, JWT.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -67,8 +69,6 @@ Concept / Project Healthcare
 Background: DuGo is a blood donation matching concept that connects blood donors with patients or recipients in need. It aims to improve donor discovery and matching based on location, blood type, availability, and urgency.
 
 - Focus: Blood donor–recipient matching, proximity, and blood donation coordination.
-
-Technologies: React, Tailwind CSS, ASP.NET Core 8, C#, Entity Framework Core, MySQL, SignalR, Leaflet, JWT.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
