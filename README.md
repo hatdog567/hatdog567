@@ -79,6 +79,5 @@ I'm always open to learning opportunities,
 collaboration, and new projects.
 
 [LinkedIn](https://www.linkedin.com/in/wency-geraldo-2b44b0305/) •
-[Email](wencyageraldo@gmail.com) •
-[Email](mailto:YOUR_EMAIL) •
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Email](mailto:wencyageraldo@gmail.com) •
+[Portfolio](Currently_Ongoing)
